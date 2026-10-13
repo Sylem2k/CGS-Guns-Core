@@ -1,0 +1,8 @@
+{5C1A77E3B0A95680}Prefabs/Weapons/Ammo/Ammo_Mortar50_HEAT.et
+{5C1A77E3B0A95800}Prefabs/Weapons/Ammo/Ammo_Mortar50_Illum.et
+{5C1A77E3B0A95683}Prefabs/Weapons/Magazines/BFA/Magazine_Mortar50_HEAT.et
+{5C1A77E3B0A95802}Prefabs/Weapons/Magazines/BFA/Magazine_Mortar50_Illum.et
+{5C1A77E3B0A95681}Prefabs/Weapons/Warheads/Warhead_Mortar50_HEAT.et
+{5C1A77E3B0A95803}Prefabs/Weapons/Ammo/FlareEffect_Mortar50_White.et
+{5C1A77E3B0A95600}Prefabs/Weapons/Mortars/BFA/Mortar50_Deployed.et
+{5C1A77E3B0A95670}Prefabs/Items/Equipment/BallisticTable/BFA/BallisticTable_Mortar50.et
