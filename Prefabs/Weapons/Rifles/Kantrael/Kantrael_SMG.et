@@ -13,9 +13,6 @@ GenericEntity : "{C6B1C7E1C8851E80}Prefabs/Weapons/Rifles/Lasgun/LasCarbine_Base
     ItemPhysAttributes ItemPhysicalAttributes "{69F025C7B97B7408}" {
      Weight 2.6
     }
-    ItemAnimationAttributes ItemAnimationAttributes "{5284960E1D29F45C}" {
-     AnimationIKPose "{7424A6F2135807B2}Assets/Weapons/Kantrael_SMG/Anims/p_kantraelsmg_ik.anm"
-    }
    }
   }
   WeaponComponent "{CFBAA4B706BA66E8}" {
@@ -102,16 +99,6 @@ GenericEntity : "{C6B1C7E1C8851E80}Prefabs/Weapons/Rifles/Lasgun/LasCarbine_Base
       Angles 0 0 0
      }
      MagazineTemplate "{03E56CA820077EBB}Prefabs/Weapons/Magazines/BFA/Magazine_LuciusHellgun.et"
-    }
-    WeaponAnimationComponent "{60B4EA76EB15F6E0}" {
-     AnimGraph "{FCFB17E1E1C4E817}Assets/Weapons/Kantrael_SMG/Anims/kantraelsmg.agr"
-     AnimInstance "{49C5BD3D14FD0AFF}Assets/Weapons/Kantrael_SMG/Anims/kantraelsmg_weapon.asi"
-     AnimInjection AnimationAttachmentInfo "{69F025C7B97AB919}" {
-      AnimGraph "{FCFB17E1E1C4E817}Assets/Weapons/Kantrael_SMG/Anims/kantraelsmg.agr"
-      AnimInstance "{3075AB77AF697E81}Assets/Weapons/Kantrael_SMG/Anims/kantraelsmg_player.asi"
-      BindingName "Weapon"
-     }
-     BindWithInjection 1
     }
    }
    UIInfo WeaponUIInfo "{CC3BA6A2C42F09F4}" {
